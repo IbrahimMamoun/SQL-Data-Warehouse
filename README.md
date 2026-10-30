@@ -21,8 +21,8 @@ The project follows the Medallion Architecture, consisting of three layers:
 1. **Bronze Layer:** Stores raw data ingested from CRM and ERP CSV files into SQL Server.
 2. **Silver Layer:** Performs data cleansing, standardization, validation, and transformation.
 3. **Gold Layer:** Contains business-ready data modeled into fact and dimension tables using a Star Schema.
+![Uploading data_architecture.png…]()
 
-![Data Architecture](02_docs/data_architecture.png)
 
 ## Project Components
 
